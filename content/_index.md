@@ -1,9 +1,9 @@
 ---
-title: bsebhat.com
+title: Behaimanot Sebhat
 toc: false
 ---
 
-This is the personal blog for Behaimanot Sebhat.
+This is the personal blog for Behaimanot Sebhat. I'm also documenting some labs I worked on.
 
 ## Explore
 
