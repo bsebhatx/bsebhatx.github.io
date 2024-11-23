@@ -3,4 +3,4 @@ title: About
 type: about
 ---
 
-This is the about page.
+My name is Behaimanot Sebhat. I'm a cybersecurity enthusiast. I live in Seattle, Washington.

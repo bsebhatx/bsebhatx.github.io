@@ -1,17 +1,22 @@
 ---
-title: My Site
+title: bsebhat.com
 toc: false
 ---
 
-This is the landing page.
+This is the personal blog for Behaimanot Sebhat.
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="labs" title="Labs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
+  {{< card link="contact" title="Contact" icon="mail" >}}
 {{< /cards >}}
 
-## Documentation
+## Labs
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+Here's some documentation for labs I created. They involve cybersecurity and networking subjects.
+
+[Lab 01 - Setup](labs/01-setup)
+
+[Lab 02 - Networks](labs/02-networks)
