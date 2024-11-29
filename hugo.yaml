@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Behaimanot Sebhat
 
 # import hextra as module
 module:
@@ -24,8 +24,8 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Contact
+      pageRef: /contact
       weight: 3
     - name: Search
       weight: 4
@@ -33,12 +33,12 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/bsebhatx"
       params:
         icon: github
-    - name: Twitter
+    - name: X
       weight: 6
-      url: "https://twitter.com/"
+      url: "https://x.com/BehaimanotS"
       params:
         icon: x-twitter
 
@@ -50,7 +50,3 @@ params:
   footer:
     displayCopyright: false
     displayPoweredBy: true
-
-  editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
