@@ -7,6 +7,7 @@ module:
   - path: github.com/imfing/hextra
 
 markup:
+  breadcrumbs: true
   # allow raw html
   goldmark:
     renderer:
@@ -18,8 +19,8 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Labs
+      pageRef: /labs
       weight: 1
     - name: About
       pageRef: /about
