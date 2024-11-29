@@ -37,11 +37,21 @@ menu:
       url: "https://github.com/bsebhatx"
       params:
         icon: github
-    - name: X
+    - name: Bluesky
       weight: 6
-      url: "https://x.com/BehaimanotS"
+      url: "https://bsky.app/profile/bsebhat.com"
       params:
-        icon: x-twitter
+        icon: bluesky
+    - name: YouTube
+      weight: 7
+      url: "https://www.youtube.com/@bsebhat"
+      params:
+        icon: youtube
+    - name: LinkedIn
+      weight: 8
+      url: "https://www.linkedin.com/in/behaimanot-sebhat-00234a33a"
+      params:
+        icon: linkedin
 
 params:
   navbar:

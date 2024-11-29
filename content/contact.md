@@ -2,17 +2,16 @@
 title: Contact
 ---
 
-## Social Media
-
-Twitter/X: [https://x.com/behaimanots](https://x.com/behaimanots)
-
-LinkedIn: [https://www.linkedin.com/in/behaimanot-sebhat-00234a33a](https://www.linkedin.com/in/behaimanot-sebhat-00234a33a)
-
-YouTube: [https://www.youtube.com/@bsebhat](https://www.youtube.com/@bsebhat)
+## Online Accounts
+GitHub: [https://github.com/bsebhatx](https://github.com/bsebhatx)
 
 Bluesky: [https://bsky.app/profile/bsebhat.com](https://bsky.app/profile/bsebhat.com)
 
-## Message Me
+YouTube: [https://www.youtube.com/@bsebhat](https://www.youtube.com/@bsebhat)
+
+LinkedIn: [https://www.linkedin.com/in/behaimanot-sebhat-00234a33a](https://www.linkedin.com/in/behaimanot-sebhat-00234a33a)
+
+## Send Me A Message
 <div class="contact-form-container">
     <form action="https://getform.io/f/4801a61d-acc3-432c-9641-ef238453e1f6" method="POST">
         <div class="form-group">
