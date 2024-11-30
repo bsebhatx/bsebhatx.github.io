@@ -5,9 +5,11 @@ toc: false
 
 Personal blog for Behaimanot Sebhat.
 
-## Explore
+## Sections
 
 {{< cards >}}
-  {{< card link="labs" title="Labs" icon="book-open" >}}
+  {{< card link="labs" title="Labs" icon="desktop-computer" >}}
+  {{< card link="blog" title="Blog" icon="rss" >}}
   {{< card link="about" title="About" icon="user" >}}
+  {{< card link="contact" title="Contact" icon="mail" >}}
 {{< /cards >}}
