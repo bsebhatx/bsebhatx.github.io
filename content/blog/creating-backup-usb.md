@@ -249,11 +249,31 @@ sudo cryptsetup close cryptusb
 ```
 ---
 
+## 15. Reboot To USB Drive
+
 Now, to test it out, I can reboot my laptop and boot from the USB drive. It should have Arch Linux installed. It has a user account called `live`, but there's not password for it. I can set it with the `passwd` command.
 
-Then, I can make changes to the system, and it will persist on the USB drive.
+Then, I can make changes to the system, and it will persist on the USB drive. If I'm having trouble with my laptop, I can boot from the USB drive and access the laptop hard drive by using the [arch-chroot](https://man.archlinux.org/man/arch-chroot.8) script.
 
-I can also use that fourth encrypted partition for backing up files.
+So, for example, if my root partition is unencrypted and on the block device `/dev/nvme0n1p2`, I can mount it to the `/mnt/crypthd` directory:
+```bash
+sudo mount --mkdir /dev/nvme0n1p2 /mnt/crypthd
+```
+
+My laptop's hard drive is encrypted, so I can decrypt it and map it:
+```bash
+sudo cryptsetup open /dev/nvme0n1p2 crypthd
+```
+
+Then mount it:
+```bash
+sudo mount --mkdir /dev/mapper/crypthd /mnt/crypthd
+```
+
+When it's mounted, I can use the script `arch-chroot` to change my root to the laptop's root filesystem:
+```bash
+sudo arch-chroot /mnt/crypthd
+```
 
 ## Final Notes
 
