@@ -3,7 +3,7 @@ title: Behaimanot Sebhat
 toc: false
 ---
 
-Personal blog for Behaimanot Sebhat.
+Personal website for Behaimanot Sebhat.
 
 ## Sections
 
