@@ -3,8 +3,7 @@ title: "Creating Backup USB"
 date: 2024-11-29T20:12:31-08:00
 ---
 
-
-# Create Persistent Arch Linux USB Drive
+{{< youtube s8KDKT6SOZ4 >}}
 
 This guide outlines the steps to create an Arch Linux USB drive with persistent storage, encryption, and the KDE Plasma desktop environment. It uses the archuseriso project from [https://github.com/laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) It also includes NVIDIA GPU support.
 
