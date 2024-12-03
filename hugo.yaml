@@ -44,7 +44,7 @@ menu:
         icon: github
     - name: Bluesky
       weight: 7
-      url: "https://bsky.app/profile/bsebhat.com"
+      url: "https://bsky.app/profile/bsebhat.bsky.social"
       params:
         icon: bluesky
     - name: YouTube
