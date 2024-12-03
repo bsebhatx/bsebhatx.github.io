@@ -5,7 +5,7 @@ title: Contact
 ## Online Accounts
 GitHub: [https://github.com/bsebhatx](https://github.com/bsebhatx)
 
-Bluesky: [https://bsky.app/profile/bsebhat.com](https://bsky.app/profile/bsebhat.com)
+Bluesky: [https://bsky.app/profile/bsebhat.bsky.social](https://bsky.app/profile/bsebhat.bsky.social)
 
 YouTube: [https://www.youtube.com/@bsebhat](https://www.youtube.com/@bsebhat)
 
